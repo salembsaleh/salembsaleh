@@ -4,11 +4,11 @@
 I am currently working on an exciting full-stack personal project (TAMU Housing).
 
 Check out my Website!
-salembsaleh@github.io
+(salembsaleh@github.io)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb)]
 
 <!--
 **salembsaleh/salembsaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
