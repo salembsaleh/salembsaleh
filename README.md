@@ -6,7 +6,7 @@ I am currently working on an exciting full-stack personal project (TAMU Housing)
 Check out my Website!
 salembsaleh@github.io
 
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
 
