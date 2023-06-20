@@ -3,7 +3,7 @@
 
 I am currently working on an exciting full-stack personal project (TAMU Housing).
 
-Check out my [Website](salembsaleh.github.io)!
+Check out my [Website](http://salembsaleh.github.io)!
 
 <br>
 
