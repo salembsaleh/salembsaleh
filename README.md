@@ -8,7 +8,7 @@ Check out my Website!
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb)]
+![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb)
 
 <!--
 **salembsaleh/salembsaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
