@@ -1,6 +1,6 @@
 ### Howdy👋
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+I'm Salem Saleh - I am a Software Engineering Intern at Chevron and an Engineering Honors CS Student at Texas A&M University.
+[![My Skills](https://skillicons.dev/icons?i=python,java,csharp,html,css,js,react,node,mongodb)](https://skillicons.dev)
 
 <!--
 **salembsaleh/salembsaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
