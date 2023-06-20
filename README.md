@@ -1,5 +1,5 @@
 ## Howdy👋
-# I'm Salem Saleh - I am a Software Engineering Intern at Chevron and an Engineering Honors CS Student at Texas A&M University.
+### I'm Salem Saleh - I am a Software Engineering Intern at Chevron and an Engineering Honors CS Student at Texas A&M University.
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
 
