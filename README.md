@@ -1,5 +1,5 @@
 ## Howdy👋
-### I'm Salem Saleh - Software Engineering Intern at Chevron and Engineering Honors CS Student at Texas A&M University.
+### I'm Salem Saleh - Software Engineering Intern at Esync Technologies and Engineering Honors CS Student at Texas A&M University.
 
 I am currently working on an exciting full-stack personal project (TAMU Housing)!
 
