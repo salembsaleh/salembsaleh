@@ -1,8 +1,6 @@
 ## Howdy👋
 ### I'm Salem Saleh - Software Engineering Intern at Esync Technologies and Engineering Honors CS Student at Texas A&M University.
 
-Check out my [Website](http://salembsaleh.github.io)!
-
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,mongodb)](https://salembsaleh.github.io)
