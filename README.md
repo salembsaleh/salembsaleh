@@ -31,7 +31,7 @@
 ## 🧠 Technical Skills
 
 ### Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,c)]()
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,php)]()
 
 ### Frontend / Web
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs)]()
