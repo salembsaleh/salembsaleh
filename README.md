@@ -17,15 +17,6 @@
 - **Meta** — WhatsApp (Menlo Park)
 - **Chevron** — Houston
 
-## 🚧 What I'm Currently Working On
-
-### **ThirdPerson** — AI-powered search & introductions platform
-
-- Co-founded an AI-powered search and introduction platform helping founders identify the right companies, investors, and partners.
-- Designed the end-to-end search and ranking pipeline combining:
-  - Semantic embeddings  
-  - LLM rankings
-
 <br>
 
 ## 🧠 Technical Skills
