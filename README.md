@@ -1,5 +1,5 @@
-## Howdy👋
-### I'm Salem Saleh - Engineering Honors Computer Science Student at Texas A&M University.
+## 👋
+### I'm Salem Saleh - Computer Science Student at Texas A&M University.
 
 <br>
 
