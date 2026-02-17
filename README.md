@@ -1,5 +1,9 @@
-## 👋
-### I'm Salem Saleh — Computer Science Student at Texas A&M University
+<h1 align="center"> Hi 👋, I'm Salem Saleh — Computer Science Student at Texas A&M University </h1>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/salem-saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salem-saleh" height="30" width="40" /></a>
+</p>
 
 ## 💼 Where I Work / Have Worked
 <p align="left">
