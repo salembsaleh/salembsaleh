@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Salem Saleh — Computer Science Student at Texas A&M University </h1>
+<h1 align="center"> Hi 👋, I'm Salem Saleh — Software Engineer </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,11 +15,11 @@
 
 
 **Software Engineer Intern**
-- **Netflix** — Netflix.com Team (Incoming, Summer 2026)
+- **Netflix** — Netflix.com (Los Gatos, CA)
 - **Meta** — Instagram (NYC)
-- **Figma** — San Francisco
-- **Meta** — WhatsApp (Menlo Park)
-- **Chevron** — Houston
+- **Figma** — San Francisco, CA
+- **Meta** — WhatsApp (Menlo Park, CA)
+- **Chevron** — Houston, TX
 
 <br>
 
